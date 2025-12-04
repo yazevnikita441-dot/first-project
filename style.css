@@ -16,3 +16,20 @@ main {
     padding: 20px;
     background-color: #f9f9f9;
 }
+
+.new-content {
+    background-color: #e8f4f8;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+    border-left: 4px solid #3498db;
+}
+
+.new-content h2 {
+    color: #2c3e50;
+}
+
+.new-content p {
+    color: #34495e;
+    line-height: 1.6;
+}
